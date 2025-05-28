@@ -123,6 +123,7 @@ fun CurrenciesSection() {
                     .fillMaxWidth(),
                 verticalAlignment = Alignment.CenterVertically
             ) {
+                
 
                 Box(
                     modifier = Modifier
